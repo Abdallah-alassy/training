@@ -6,7 +6,7 @@ click.addEventListener("click", function () {
   var print = document.getElementById("print");
   if (one === two) {
     print.innerHTML = "yes";
-    alert("fuck you");
+    alert("hi");
   } else {
     print.innerHTML = "no";
   }
